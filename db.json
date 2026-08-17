@@ -1,0 +1,22 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "C# Programlama",
+      "price": "120",
+      "postId" :"7"
+    },
+    {
+      "id": 3,
+      "title": "SQL Server",
+      "price": 145,
+      "postId" : "8"
+    },
+    {
+      "title": "C++ Dersleri",
+      "price": "160",
+      "id": 4,
+      "postId":"9"
+    }
+  ]
+}
